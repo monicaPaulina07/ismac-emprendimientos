@@ -15,5 +15,6 @@ public interface LoginuserDAO {
 	public void up(Loginuser user);
 	
 	public void del(int id);
+	public List<Loginuser> findAll(String busqueda);
 }
 
