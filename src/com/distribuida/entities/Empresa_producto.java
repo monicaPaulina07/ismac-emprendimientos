@@ -33,8 +33,7 @@ public class Empresa_producto {
 	
 	public Empresa_producto() {}
 	
-	public Empresa_producto(int idempresa_producto, String producto, String descripcion, Empresa empresa,
-			Producto productos) {
+	public Empresa_producto(int idempresa_producto, String producto, String descripcion, Empresa empresa) {
 		this.idempresa_producto = idempresa_producto;
 		this.producto = producto;
 		this.descripcion = descripcion;

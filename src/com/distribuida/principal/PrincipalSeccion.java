@@ -1,3 +1,4 @@
+
 package com.distribuida.principal;
 
 public class PrincipalSeccion {
@@ -8,3 +9,4 @@ public class PrincipalSeccion {
 	}
 
 }
+
